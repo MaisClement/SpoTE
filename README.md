@@ -11,6 +11,8 @@ Le bot est codé en Python via le fichier [pycord](https://github.com/Pycord-Dev
 
 En cas de suggestion, d'ajout, veuillez passer par l'onglet "issues" ou de vous rapprocher de `Thibaut#4872`sur le Discord.
 
+La technologie du bot est développée en partenariat avec @MaisClément, il est donc également propriétaire du code et de la licence.
+
 
 
 
