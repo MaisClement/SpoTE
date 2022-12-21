@@ -14,7 +14,7 @@ import geckodriver_autoinstaller
 
 driver = webdriver.Firefox()
 
-bot = commands.Bot()
+bot = discord.Bot()
 
 print ("Firefox ✔")
 @bot.event
