@@ -1,6 +1,6 @@
 # SpoTE
 
- ![image](https://train-empire.com/fr/images/logo.png)
+ ![image](spote.png)
 
 Bot lié au jeu [Train-Empire](https://train-empire.com).
 
