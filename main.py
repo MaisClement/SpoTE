@@ -12,6 +12,13 @@ version = "1.0"
 from selenium import webdriver
 import geckodriver_autoinstaller
 
+if os.name != 'nt': # Linux uniquement
+    from pyvirtualdisplay import Display
+    print ("Opening display")
+    display = Display(visible=0, size=(1920, 1080)).start()
+
+print ("Démarrage ...")
+
 driver = webdriver.Firefox()
 
 bot = discord.Bot()
